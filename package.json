@@ -1,0 +1,24 @@
+{
+  "name": "BigB",
+  "version": "1.0.0",
+  "description": "A public bot by Froosty using discord.js and hosted on heroku.",
+  "main": "index.js",
+  "engines": {
+    "node": "8.4.0"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Froosty",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-constructor": "github:kyranet/canvasConstructor#2.0",
+    "discord.js": "^11.2.1",
+    "firebase": "^4.3.1",
+    "firebase-admin": "^5.2.1",
+    "fs-nextra": "^0.2.1",
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0",
+    "snekfetch": "^3.3.0"
+  }
+}
